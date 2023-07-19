@@ -1,1 +1,12 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Organized Json",
+    "text": "ouput an organized JSON array.",
+    "id": "d8edd6ea-c797-43dc-9eb8-90aa33f5c2c2"
+  },
+  {
+    "title": "Test",
+    "text": "Test",
+    "id": "981ce6e5-4aa5-4ece-b828-ebc1f8139a86"
+  }
+]
